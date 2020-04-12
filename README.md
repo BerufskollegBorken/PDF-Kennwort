@@ -1,2 +1,2 @@
 # PDF-Kennwort
-Alle Dokumente auf dem Desktop werden kopiert und passwortgeschützt
+Alle PDF-Dokumente auf dem Desktop, die nicht '-Kennwort' im Namen bereits enthalten, werden kopiert und passwortgeschützt mit dem Suffix '-Kennwort' neu gespeichert.
