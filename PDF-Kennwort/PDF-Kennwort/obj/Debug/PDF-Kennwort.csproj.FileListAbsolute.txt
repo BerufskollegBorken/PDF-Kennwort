@@ -1,0 +1,12 @@
+U:\Source\Repos\PDF-Kennwort\PDF-Kennwort\PDF-Kennwort\bin\Debug\PDF-Kennwort.exe.config
+U:\Source\Repos\PDF-Kennwort\PDF-Kennwort\PDF-Kennwort\bin\Debug\PDF-Kennwort.exe
+U:\Source\Repos\PDF-Kennwort\PDF-Kennwort\PDF-Kennwort\bin\Debug\PDF-Kennwort.pdb
+U:\Source\Repos\PDF-Kennwort\PDF-Kennwort\PDF-Kennwort\bin\Debug\PdfSharp.Charting.dll
+U:\Source\Repos\PDF-Kennwort\PDF-Kennwort\PDF-Kennwort\bin\Debug\PdfSharp.dll
+U:\Source\Repos\PDF-Kennwort\PDF-Kennwort\PDF-Kennwort\bin\Debug\PdfSharp.xml
+U:\Source\Repos\PDF-Kennwort\PDF-Kennwort\PDF-Kennwort\bin\Debug\PdfSharp.Charting.xml
+U:\Source\Repos\PDF-Kennwort\PDF-Kennwort\PDF-Kennwort\bin\Debug\de\PdfSharp.resources.dll
+U:\Source\Repos\PDF-Kennwort\PDF-Kennwort\PDF-Kennwort\bin\Debug\de\PdfSharp.Charting.resources.dll
+U:\Source\Repos\PDF-Kennwort\PDF-Kennwort\PDF-Kennwort\obj\Debug\PDF-Kennwort.csprojResolveAssemblyReference.cache
+U:\Source\Repos\PDF-Kennwort\PDF-Kennwort\PDF-Kennwort\obj\Debug\PDF-Kennwort.exe
+U:\Source\Repos\PDF-Kennwort\PDF-Kennwort\PDF-Kennwort\obj\Debug\PDF-Kennwort.pdb
