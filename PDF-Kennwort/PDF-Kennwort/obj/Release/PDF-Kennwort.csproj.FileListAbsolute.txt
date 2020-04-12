@@ -1,0 +1,6 @@
+\\fs01\Schulverwaltung\PDF-Kennwort\PDF-Kennwort.exe.config
+\\fs01\Schulverwaltung\PDF-Kennwort\PDF-Kennwort.exe
+\\fs01\Schulverwaltung\PDF-Kennwort\PDF-Kennwort.pdb
+U:\Source\Repos\PDF-Kennwort\PDF-Kennwort\PDF-Kennwort\obj\Release\PDF-Kennwort.csprojResolveAssemblyReference.cache
+U:\Source\Repos\PDF-Kennwort\PDF-Kennwort\PDF-Kennwort\obj\Release\PDF-Kennwort.exe
+U:\Source\Repos\PDF-Kennwort\PDF-Kennwort\PDF-Kennwort\obj\Release\PDF-Kennwort.pdb
